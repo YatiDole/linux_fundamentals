@@ -1,5 +1,10 @@
 ## Command line navigation
 
+# Command nomenclature
+* Commands contain three parts in this order:
+	• command or binary name (required)
+	• options (may or may not be required)
+	• arguments (may or may not be required)
 
 # Searching and editing files
 
