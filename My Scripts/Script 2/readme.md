@@ -1,0 +1,1 @@
+# Write a script that receives one parameters (file name) and checks if the file exists or not - If it does, print “Roger that!” else, print “Huston we’ve got a problem!”

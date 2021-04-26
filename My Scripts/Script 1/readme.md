@@ -1,0 +1,1 @@
+#  Write a shell script that checks if a file (as an argument) has write permissions - if its available print “write access approved” else print “no write access”.
